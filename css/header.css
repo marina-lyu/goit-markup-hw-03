@@ -1,0 +1,38 @@
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing:  0.03em;;
+    line-height: 1.33;
+    color: #2E2F42;
+}
+.web {
+    color: #4D5AE5;
+}
+.nav-menu a {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.nav-menu a:hover {
+    color: #404BBF ;
+}
+.nav-menu a:active {
+    color: #404BBF;
+    text-decoration: underline;
+}
+.nav-menu a:focus {
+    color: #404BBF;
+}
+.contacts a {
+    letter-spacing: 0.02em;
+    font-style: normal;
+    color: #434455;
+}
+.contacts a:hover {
+    color: #404BBF;
+}
+.contacts a:focus {
+    color: #404BBF;
+}
