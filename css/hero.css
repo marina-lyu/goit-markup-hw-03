@@ -10,6 +10,7 @@
     color: white;
     width: 496px;
     margin: 0;
+    margin-left:auto;
 }
 .button {
     font-weight: 500;
