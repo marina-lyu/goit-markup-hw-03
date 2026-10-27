@@ -29,9 +29,7 @@
     flex-shrink: 0;
 }
 .portfolio-content {
-    padding-top: 32px;
-    padding-bottom: 32px;
-    padding-left: 16px; 
+    padding: 32px 16px;
     border-right: 1px solid #E7E9FC;
     border-bottom: 1px solid #E7E9FC;
     border-left: 1px solid #E7E9FC;
