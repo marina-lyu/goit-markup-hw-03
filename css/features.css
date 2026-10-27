@@ -15,3 +15,6 @@
     display: flex;
     gap: 24px;
 }
+.features {
+    padding: 120px 0;
+}
