@@ -8,6 +8,7 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 .team li {
     background-color: white;
@@ -19,9 +20,19 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 .team p {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+}
+.team-list {
+    display: flex;
+    gap: 24px;
+}
+.team-content {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    border-radius: 4px;
 }

@@ -1,5 +1,5 @@
 .footer {
-    background-color: #2E2F42;
+    background-color: #2E2F42;  
 }
 .logo-footer {
     font-family: "Raleway", sans-serif;
@@ -13,4 +13,21 @@
 .footer p {
     letter-spacing: 0.02em;
     color: #f4f4fd;
+    margin-top: 16px;
+    max-width: 264px;
+}
+.footer> .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    padding: 100px 0;
+}
+.page-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex-grow: 1
 }
